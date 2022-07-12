@@ -4,52 +4,40 @@
 * 封装 SpringBoot Banner 抽象类
 
 ### buession-springboot-cache
-* buessionframework redis auto configuration
+* buession-redis 自动配置类
 
 ### buession-springboot-captcha
-* buession security geetest auto configuration
-
-### buession-springboot-cas
-* buession cas auto configuration
+* buession-security-captcha 行为验证码自动配置类
 
 ### buession-springboot-cli
 * SpringBoot 命令行应用
 
 ### buession-springboot-datasource
-* buessionframework datasource auto configuration
-* spring transaction manager auto configuration
+* jdbc datasource 自动配置类，支持读写分离，spring transaction manager 自动配置类
 
 ### buession-springboot-geoip
-* buessionframework geoip auto configuration
+* buession-geoip 自动配置类
 
 ### buession-springboot-httpclient
-* buessionframework httpclient auto configuration
-
-### buession-springboot-jwt
-* JWT auto configuration
+* buession-httpclient 自动配置类
 
 ### buession-springboot-mongodb
-* 
+* `MongoDataAutoConfiguration` 扩展 
 
 ### buession-springboot-mybatis
-* apache mybatis auto configuration，支持一主多从 SqlSessionTemplate
+* apache mybatis 自动配置类，支持一主多从 SqlSessionTemplate
 
-### buession-springboot-oss
-* buessionframework oss auto configuration
-
-### buession-springboot-jwt
-* buession security pac4j auto configuration
-* pac4j auto configuration
+### buession-springboot-pac4j
+* pac4j && buession-security-pac4j 自动配置类
 
 ### buession-springboot-session
-* 
+* buession-session 自动配置类
 
 ### buession-springboot-shiro
-* buession security shiro auto configuration
-* apache shiro auto configuration
+* apache shiro && buession-security-shiro 自动配置类
 
 ### buession-springboot-velocity
-* apache velocity auto configuration
+* apache velocity && buession-velocity 自动配置类
 
 ### buession-springboot-web
-* buessionframework web auto configuration
+* buession-web 自动配置类
