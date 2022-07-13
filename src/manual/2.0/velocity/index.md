@@ -1,0 +1,10 @@
+# buession-springboot-velocity 参考手册
+
+
+apache velocity && buession-velocity 自动配置类。
+
+
+---
+
+
+## [API 参考手册>>](/manual/2.0/docs/buession-springboot-velocity/)
