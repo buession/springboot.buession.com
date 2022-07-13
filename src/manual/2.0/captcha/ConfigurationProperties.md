@@ -20,7 +20,7 @@
 | spring.captcha.aliyun.access-key-secret | String                                               | --                      | AccessKey Secret      |
 | spring.captcha.aliyun.app-key           | String                                               | --                      | 服务使用的 App Key      |
 | spring.captcha.aliyun.region-id         | String                                               | --                      | 区域 ID      |
-| spring.captcha.aliyun.parameter         | com.buession.security.captcha.aliyun.AliyunParameter | AliyunParameter 默认值   | 前端提交参数名称      |
+| spring.captcha.aliyun.parameter         | [AliyunParameter](https://security.buession.com/manual/2.0/docs/buession-security-captcha/com/buession/security/captcha/aliyun/AliyunParameter.html) | AliyunParameter 默认值   | 前端提交参数名称      |
 
 
 #### 极验
@@ -31,8 +31,8 @@
 | spring.captcha.geetest.app-id        | String                                                           | --                     | 应用 ID      |
 | spring.captcha.geetest.secret-key    | String                                                           | --                     | 密钥      |
 | spring.captcha.geetest.version       | String                                                           | v4                    | 版本      |
-| spring.captcha.geetest.v3.parameter  | com.buession.security.captcha.geetest.api.v3.GeetestV3Parameter  | GeetestV3Parameter 默认值                     | 前端提交参数名称      |
-| spring.captcha.geetest.v3.parameter  | com.buession.security.captcha.geetest.api.v4.GeetestV4Parameter  | GeetestV4Parameter 默认值                     | 前端提交参数名称      |
+| spring.captcha.geetest.v3.parameter  | [GeetestV3Parameter](https://security.buession.com/manual/2.0/docs/buession-security-captcha/com/buession/security/captcha/geetest/api/v3/GeetestV3Parameter.html)  | GeetestV3Parameter 默认值                     | 前端提交参数名称      |
+| spring.captcha.geetest.v3.parameter  | [GeetestV4Parameter](https://security.buession.com/manual/2.0/docs/buession-security-captcha/com/buession/security/captcha/geetest/api/v4/GeetestV4Parameter.html)  | GeetestV4Parameter 默认值                     | 前端提交参数名称      |
 
 
 #### 腾讯
@@ -42,4 +42,4 @@
 | spring.captcha.tencent.enabled    | boolean                                                | true                   | 是否启腾讯云行为验证码      |
 | spring.captcha.tencent.app-id     | String                                                 | --                     | 应用 ID      |
 | spring.captcha.tencent.secret-key | String                                                 | --                     | 密钥      |
-| spring.captcha.tencent.parameter  | com.buession.security.captcha.tencent.TencentParameter | TencentParameter 默认值               | 前端提交参数名称      |
+| spring.captcha.tencent.parameter  | [TencentParameter](https://security.buession.com/manual/2.0/docs/buession-security-captcha/com/buession/security/captcha/tencent/TencentParameter.html) | TencentParameter 默认值               | 前端提交参数名称      |

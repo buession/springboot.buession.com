@@ -21,7 +21,6 @@ SpringBoot 命令行应用。
 
 ```java
 import com.buession.springboot.cli.application.AbstractCliApplication;
-import org.springframework.boot.Banner;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;

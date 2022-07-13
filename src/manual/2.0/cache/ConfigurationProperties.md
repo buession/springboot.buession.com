@@ -16,7 +16,7 @@
 | spring.redis.so-timeout                  | Duration                                 | 5000 ms | 读取超时时间      |
 | spring.redis.infinite-so-timeout         | Duration                                 | 5000 ms | Infinite 读取超时 |
 | spring.redis.key-prefix                  | String                                   | --      | Key 前缀         |
-| spring.redis.serializer                  | com.buession.redis.serializer.Serializer | --      | 序列化方式        |
+| spring.redis.serializer                  | [Serializer](https://www.buession.com/manual/2.0/docs/buession-redis/com/buession/redis/serializer/Serializer.html) | --      | 序列化方式        |
 | spring.redis.enable-transaction-support  | boolean                                  | false   | 是否开启事务       |
 
 
