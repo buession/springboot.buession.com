@@ -32,7 +32,7 @@
 | spring.captcha.geetest.secret-key    | String                                                           | --                     | 密钥      |
 | spring.captcha.geetest.version       | String                                                           | v4                    | 版本      |
 | spring.captcha.geetest.v3.parameter  | [GeetestV3Parameter](https://security.buession.com/manual/2.0/docs/buession-security-captcha/com/buession/security/captcha/geetest/api/v3/GeetestV3Parameter.html)  | GeetestV3Parameter 默认值                     | 前端提交参数名称      |
-| spring.captcha.geetest.v3.parameter  | [GeetestV4Parameter](https://security.buession.com/manual/2.0/docs/buession-security-captcha/com/buession/security/captcha/geetest/api/v4/GeetestV4Parameter.html)  | GeetestV4Parameter 默认值                     | 前端提交参数名称      |
+| spring.captcha.geetest.v4.parameter  | [GeetestV4Parameter](https://security.buession.com/manual/2.0/docs/buession-security-captcha/com/buession/security/captcha/geetest/api/v4/GeetestV4Parameter.html)  | GeetestV4Parameter 默认值                     | 前端提交参数名称      |
 
 
 #### 腾讯
