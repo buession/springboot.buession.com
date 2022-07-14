@@ -6,5 +6,16 @@
 
 ---
 
+```xml
+<dependency>
+    <groupId>com.buession.springboot</groupId>
+    <artifactId>buession-springboot-mongodb</artifactId>
+    <version>x.x.x</version>
+</dependency>
+```
+
+
+您可以通过该类库，去掉 spring-data-mongodb 中的保存数据时的  _class 字段。
+
 
 ## [API 参考手册>>](/manual/2.0/docs/buession-springboot-mongodb/)
