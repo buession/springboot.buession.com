@@ -19,7 +19,6 @@
 
 ##### CAS 配置
 
-
 1. spring.pac4j.client.cas.proxy.enabled：表示 pac4j `CasConfiguration` 是否启用 `CasProxyReceptor`
 
 详细配置参考 [https://springboot.buession.com/manual/2.0/docs/buession-springboot-pac4j/com/buession/springboot/pac4j/config/Cas.html](https://springboot.buession.com/manual/2.0/docs/buession-springboot-pac4j/com/buession/springboot/pac4j/config/Cas.html)
@@ -40,3 +39,30 @@
 详细配置参考 [https://springboot.buession.com/manual/2.0/docs/buession-springboot-pac4j/com/buession/springboot/pac4j/config/OAuth.html](https://springboot.buession.com/manual/2.0/docs/buession-springboot-pac4j/com/buession/springboot/pac4j/config/OAuth.html)
 
 * 注：每类客户端均有 `enabled` 属性（如：spring.pac4j.client.cas.enabled），默认值为：false，表示是否启用该类客户端；每个客户端均有 `enabled` 属性（如：spring.pac4j.client.jwt.header.enabled），默认值为：false，表示是否启用该客户端.
+
+
+#### Filter 配置
+
+##### SecurityFilter 配置
+
+|  属性   | 类型   | 默认值    | 说明    |
+|  ----  | ----   | ----     | ----   |
+| spring.pac4j.filter.security.authorizers  | Set<String>    | --      | 认证器名称列表     |
+| spring.pac4j.filter.security.matchers     | Set<String>    | --      | 匹配器名称列表     |
+
+
+##### CallbackFilter 配置
+
+|  属性   | 类型   | 默认值    | 说明    |
+|  ----  | ----   | ----     | ----   |
+| spring.pac4j.filter.callback.default-url  | String    | --      | 默认跳转地址     |
+
+
+##### LogoutFilter 配置
+
+|  属性   | 类型   | 默认值    | 说明    |
+|  ----  | ----   | ----     | ----   |
+| spring.pac4j.filter.logout.default-url         | String    | --      | 登出成功默认跳转地址     |
+| spring.pac4j.filter.logout.logout-url-pattern  | String    | --      | 登出地址模式            |
+| spring.pac4j.filter.logout.local-logout        | boolean   | true    | 本地是否退出登录         |
+| spring.pac4j.filter.logout.central-logout      | boolean   | true    | 认证中心是否退出登录     |
