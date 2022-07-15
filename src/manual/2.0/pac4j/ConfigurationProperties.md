@@ -19,6 +19,9 @@
 
 ##### CAS 配置
 
+
+1. spring.pac4j.client.cas.proxy.enabled：表示 pac4j `CasConfiguration` 是否启用 `CasProxyReceptor`
+
 详细配置参考 [https://springboot.buession.com/manual/2.0/docs/buession-springboot-pac4j/com/buession/springboot/pac4j/config/Cas.html](https://springboot.buession.com/manual/2.0/docs/buession-springboot-pac4j/com/buession/springboot/pac4j/config/Cas.html)
 
 
@@ -35,3 +38,5 @@
 ##### OAuth 配置
 
 详细配置参考 [https://springboot.buession.com/manual/2.0/docs/buession-springboot-pac4j/com/buession/springboot/pac4j/config/OAuth.html](https://springboot.buession.com/manual/2.0/docs/buession-springboot-pac4j/com/buession/springboot/pac4j/config/OAuth.html)
+
+* 注：每类客户端均有 `enabled` 属性（如：spring.pac4j.client.cas.enabled），默认值为：false，表示是否启用该类客户端；每个客户端均有 `enabled` 属性（如：spring.pac4j.client.jwt.header.enabled），默认值为：false，表示是否启用该客户端.
