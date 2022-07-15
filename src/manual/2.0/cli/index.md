@@ -7,7 +7,7 @@ SpringBoot 命令行应用。
 ---
 
 
-### **安装**
+### 安装
 
 ```xml
 <dependency>
@@ -45,4 +45,4 @@ public class DemoCliApplication extends AbstractCliApplication {
 他强制将 webApplicationType 设置成：`WebApplicationType.NONE`。
 
 
-## [API 参考手册>>](/manual/2.0/docs/buession-springboot-cli/)
+### [API 参考手册>>](/manual/2.0/docs/buession-springboot-cli/)

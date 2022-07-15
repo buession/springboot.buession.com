@@ -7,7 +7,7 @@ buession-security-captcha 行为验证码自动配置类。
 ---
 
 
-### **安装**
+### 安装
 
 ```xml
 <dependency>
@@ -20,4 +20,4 @@ buession-security-captcha 行为验证码自动配置类。
 该模块实现了[buession-security-captcha](https://security.buession.com/manual/2.0/captcha/index.html) 行为阿里云、极验、腾讯云等行为验证客户端 `CaptchaClient` 的初始化。
 
 
-## [API 参考手册>>](/manual/2.0/docs/buession-springboot-captcha/)
+### [API 参考手册>>](/manual/2.0/docs/buession-springboot-captcha/)
