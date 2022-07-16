@@ -11,6 +11,9 @@
 | spring.shiro.login-url                     			 		| String                          | --              | 登录地址     |
 | spring.shiro.success-url                    				    | String                          | --              | 登录成功跳转地址     |
 | spring.shiro.unauthorized-url               				    | String                          | --              | 授权失败跳转地址     |
+| spring.shiro.annotations.enabled             				    | boolean                         | true            | 是否开启 Shiro 注解     |
+| spring.shiro.web.enabled             				            | boolean                         | true            | 是否开启 Shiro WEB 模式     |
+| spring.shiro.enabled             				                | boolean                         | true            | 是否开启 Shiro     |
 | spring.shiro.session.use-native-session-manager               | boolean                         | false           | 是否使用原生 Session 管理器     |
 | spring.shiro.session.session-id-cookie-enabled                | boolean                         | true            | 是否开启 SESSION ID Cookie     |
 | spring.shiro.session.session-id-url-rewriting-enabled         | boolean                         | true            | 是否开启 URL 重写，开启后 URL 中会带 JSESSIONID     |
