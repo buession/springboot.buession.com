@@ -17,7 +17,7 @@
 </dependency>
 ```
 
-该模块定义了 SpringBootApplication 的接口，简化了您的 SpringBootApplication 启动类的创建(更多的使用方式，将在[buession-springboot-web](2.0/web/index.md)和[buession-springboot-cli](2.0/cli/index.md)讲解)。该模块还将自动自动配置 `MessagePropertyBeanPostProcessor`。
+该模块定义了 SpringBootApplication 的接口，简化了您的 SpringBootApplication 启动类的创建(更多的使用方式，将在[buession-springboot-web](../web/index.md)和[buession-springboot-cli](../cli/index.md)讲解)。该模块还将自动自动配置 `MessagePropertyBeanPostProcessor`。
 
 
 ### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-boot/2.0.1/)
