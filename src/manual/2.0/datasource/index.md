@@ -18,4 +18,4 @@ jdbc datasource 自动配置类，支持读写分离，spring transaction manage
 ```
 
 
-### [API 参考手册>>](/manual/2.0/docs/buession-springboot-datasource/)
+### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-datasource/2.0.1/)

@@ -1,3 +1,6 @@
+# 模块说明
+
+
 ### buession-springboot-boot
 * [SpringBoot](https://spring.io/projects/spring-boot) 基础库依赖
 * 封装 SpringBoot Application 启动抽象类

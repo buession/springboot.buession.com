@@ -18,32 +18,32 @@
 
 配置属性前缀：spring.datasource.hikari
 
-详细配置参见：[https://www.buession.com/manual/2.0/docs/buession-jdbc/com/buession/jdbc/datasource/config/HikariPoolConfiguration.html](https://www.buession.com/manual/2.0/docs/buession-jdbc/com/buession/jdbc/datasource/config/HikariPoolConfiguration.html)
+详细配置参见：[https://javadoc.io/static/com.buession/buession-jdbc/2.0.2/com/buession/jdbc/datasource/config/HikariPoolConfiguration.html](https://javadoc.io/static/com.buession/buession-jdbc/2.0.2/com/buession/jdbc/datasource/config/HikariPoolConfiguration.html)
 
 
 #### DHCP2 数据源连接池
 
 配置属性前缀：spring.datasource.dbcp2
 
-详细配置参见：[https://www.buession.com/manual/2.0/docs/buession-jdbc/com/buession/jdbc/datasource/config/Dbcp2PoolConfiguration.html](https://www.buession.com/manual/2.0/docs/buession-jdbc/com/buession/jdbc/datasource/config/Dbcp2PoolConfiguration.html)
+详细配置参见：[https://javadoc.io/static/com.buession/buession-jdbc/2.0.2/com/buession/jdbc/datasource/config/Dbcp2PoolConfiguration.html](https://javadoc.io/static/com.buession/buession-jdbc/2.0.2/com/buession/jdbc/datasource/config/Dbcp2PoolConfiguration.html)
 
 
 #### Druid 数据源连接池
 
 配置属性前缀：spring.datasource.druid
 
-详细配置参见：[https://www.buession.com/manual/2.0/docs/buession-jdbc/com/buession/jdbc/datasource/config/DruidPoolConfiguration.html](https://www.buession.com/manual/2.0/docs/buession-jdbc/com/buession/jdbc/datasource/config/DruidPoolConfiguration.html)
+详细配置参见：[https://javadoc.io/static/com.buession/buession-jdbc/2.0.2/com/buession/jdbc/datasource/config/DruidPoolConfiguration.html](https://javadoc.io/static/com.buession/buession-jdbc/2.0.2/com/buession/jdbc/datasource/config/DruidPoolConfiguration.html)
 
 
 #### Tomcat 数据源连接池
 
 配置属性前缀：spring.datasource.tomcat
 
-详细配置参见：[https://www.buession.com/manual/2.0/docs/buession-jdbc/com/buession/jdbc/datasource/config/TomcatPoolConfiguration.html](https://www.buession.com/manual/2.0/docs/buession-jdbc/com/buession/jdbc/datasource/config/TomcatPoolConfiguration.html)
+详细配置参见：[https://javadoc.io/static/com.buession/buession-jdbc/2.0.2/com/buession/jdbc/datasource/config/TomcatPoolConfiguration.html](https://javadoc.io/static/com.buession/buession-jdbc/2.0.2/com/buession/jdbc/datasource/config/TomcatPoolConfiguration.html)
 
 
 #### 一般的数据源连接池
 
 配置属性前缀：spring.datasource.generic
 
-详细配置参见：[https://www.buession.com/manual/2.0/docs/buession-jdbc/com/buession/jdbc/datasource/config/GenericPoolConfiguration.html](https://www.buession.com/manual/2.0/docs/buession-jdbc/com/buession/jdbc/datasource/config/GenericPoolConfiguration.html)
+详细配置参见：[https://javadoc.io/static/com.buession/buession-jdbc/2.0.2/com/buession/jdbc/datasource/config/GenericPoolConfiguration.html](https://javadoc.io/static/com.buession/buession-jdbc/2.0.2/com/buession/jdbc/datasource/config/GenericPoolConfiguration.html)

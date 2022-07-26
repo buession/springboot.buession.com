@@ -8,4 +8,4 @@
 
 配置属性前缀：spring.httpclient
 
-详细配置参见：[https://www.buession.com/manual/2.0/docs/buession-httpclient/com/buession/httpclient/core/Configuration.html](https://www.buession.com/manual/2.0/docs/buession-httpclient/com/buession/httpclient/core/Configuration.html)
+详细配置参见：[https://javadoc.io/static/com.buession/buession-httpclient/2.0.2/com/buession/httpclient/core/Configuration.html](https://javadoc.io/static/com.buession/buession-httpclient/2.0.2/com/buession/httpclient/core/Configuration.html)

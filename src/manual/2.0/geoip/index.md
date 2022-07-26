@@ -20,4 +20,4 @@ buession-geoip 自动配置类。
 该模块实现了[buession-geoip](https://www.buession.com/manual/2.0/geoip/index.html) 中 `Resolver` 的初始化。
 
 
-### [API 参考手册>>](/manual/2.0/docs/buession-springboot-geoip/)
+### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-geoip/2.0.1/)

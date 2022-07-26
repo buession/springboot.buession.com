@@ -20,4 +20,4 @@ buession-web 自动配置类。
 该模块实现了[buession-web](https://www.buession.com/manual/2.0/web/index.html) 的初始化。
 
 
-### [API 参考手册>>](/manual/2.0/docs/buession-springboot-web/)
+### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/uession-springboot-web/2.0.1/)

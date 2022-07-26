@@ -21,4 +21,4 @@ buession-httpclient 自动配置类。
 该模块实现了[buession-httpclient](https://www.buession.com/manual/2.0/httpclient/index.html) 中 HTTP 客户端 `ApacheHttpClient` 或 `OkHttpHttpClient` 的初始化。
 
 
-### [API 参考手册>>](/manual/2.0/docs/buession-springboot-httpclient/)
+### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-httpclient/2.0.1/)
