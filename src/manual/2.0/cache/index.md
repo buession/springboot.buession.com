@@ -20,4 +20,4 @@ buession-redis 自动配置类。
 该模块实现了[buession-redis](https://www.buession.com/manual/2.0/redis/index.html) 中 `RedisTemplate` 的初始化。
 
 
-### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-cache/2.0.1/)
+### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-cache/2.0.2/)

@@ -21,4 +21,4 @@ buession-session 自动配置类。
 该模块实现了[buession-session](https://www.buession.com/manual/2.0/session/index.html) 的初始化，无实际意义，后续将会删除。
 
 
-### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-session/2.0.1/)
+### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-session/2.0.2/)

@@ -21,4 +21,4 @@ apache shiro && buession-security-shiro 自动配置类。
 该模块实现了[buession-security-shiro](https://security.buession.com/manual/2.0/shiro/index.html) 和 apache shiro 的初始化。
 
 
-### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-shiro/2.0.1/)
+### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-shiro/2.0.2/)
