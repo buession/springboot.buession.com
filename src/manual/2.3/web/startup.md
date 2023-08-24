@@ -91,4 +91,4 @@ public class ReactiveExampleWebApplication extends AbstractWebApplication {
 ```
 
 
-### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-web/2.3.0/)
+### [API 参考手册>>](https://javadoc.io/static/com.buession.springboot/buession-springboot-web/2.3.0/com/buession/springboot/web/application/AbstractWebApplication.html)
