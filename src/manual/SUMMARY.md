@@ -45,6 +45,7 @@
     * [buession-springboot-web](2.3/web/index.md)
       * [安装](2.3/web/index.md#安装)
       * [配置属性](2.3/web/ConfigurationProperties.md)
+      * [启动类](2.3/web/startup.md)
   * [2.2.x](2.2/index.md)
     * [buession-springboot-boot](2.2/boot/index.md)
       * [安装](2.2/boot/index.md#安装)
