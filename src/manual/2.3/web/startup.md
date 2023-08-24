@@ -1,7 +1,7 @@
 # buession-springboot-web 参考手册
 
 
-Spring Boot 应用启动类。
+Spring Boot Web 应用启动类。
 
 
 ---
